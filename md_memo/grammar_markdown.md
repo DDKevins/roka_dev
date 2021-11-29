@@ -1,7 +1,6 @@
 # MarkDown Grammar
 
 
--------------------------------------
 ## Header
 There's 6 Level of Header.
 
@@ -33,8 +32,8 @@ There's 6 Level of Header.
 ## BlockQuote
 
 > This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
+>> This is a second blockqute.
+>>> This is a third blockqute.
 
 -------------------------------------
 ## List

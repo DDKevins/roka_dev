@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Artec-Software-1-hex { color: #AAB1BF; }
+.Artec-Software-2-hex { color: #4E84A6; }
+.Artec-Software-3-hex { color: #166B8C; }
+.Artec-Software-4-hex { color: #2A4359; }
+.Artec-Software-5-hex { color: #121D26; }
+
+/* Color Theme Swatches in RGBA */
+.Artec-Software-1-rgba { color: rgba(170, 177, 191, 1); }
+.Artec-Software-2-rgba { color: rgba(78, 132, 166, 1); }
+.Artec-Software-3-rgba { color: rgba(22, 107, 140, 1); }
+.Artec-Software-4-rgba { color: rgba(42, 67, 89, 1); }
+.Artec-Software-5-rgba { color: rgba(18, 29, 38, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Artec-Software-1-hsla { color: hsla(219, 14, 70, 1); }
+.Artec-Software-2-hsla { color: hsla(203, 36, 47, 1); }
+.Artec-Software-3-hsla { color: hsla(196, 72, 31, 1); }
+.Artec-Software-4-hsla { color: hsla(208, 35, 25, 1); }
+.Artec-Software-5-hsla { color: hsla(207, 35, 10, 1); }

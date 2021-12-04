@@ -11,7 +11,7 @@
 * https://studiomeal.com/blog   
 1분코딩!
 
-* https://flexboxfroggy.com/#ko
+* https://flexboxfroggy.com/#ko   
 Flexbox에 익숙해져보자
 
 ----------------------------------
@@ -19,5 +19,10 @@ Flexbox에 익숙해져보자
 * https://material.io/design   
 구글의 머터리얼 디자인 감각
 
-* https://fontawesome.com/
-여러가지 아이콘!   
+* https://fontawesome.com/   
+여러가지 아이콘!  
+
+----------------------------------
+## Background
+* https://tagilog.tistory.com/537   
+자주쓰는 영단어
